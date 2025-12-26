@@ -51,6 +51,7 @@ You will start by creating a GCP account. Then, you will learn how to configure 
   
    <img src="images/1-3.PNG" alt="a5" width="750">
    <img src="images/1-4.PNG" alt="a5" width="750">
+   
    The console will be opened at the bottom of the page as shown in the following figure and from it we can exchange files and folders with your local computer by downloading or uploading them. You can also click **Open Editor** button to open a text editor.
     
    <img src="images/1-5.PNG" alt="a6" width="750">
