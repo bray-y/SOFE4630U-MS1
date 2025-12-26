@@ -49,13 +49,14 @@ You will start by creating a GCP account. Then, you will learn how to configure 
 * project(s): a project usually named **My First Project** will be created, However, you can create, edit, and delete projects.
 * The console: By clicking the console icon, the console will be opened to you. The console is a Linux terminal that can be used to configure the cloud. Any commands affecting the console's local OS will be temporary and lost whenever the session is closed, while any change made to cloud services will be permanent.
   
-   <img src="images/a5.jpg" alt="a5" width="750">
+   <img src="images/1-3.PNG" alt="a5" width="750">
+   <img src="images/1-4.PNG" alt="a5" width="750">
    The console will be opened at the bottom of the page as shown in the following figure and from it we can exchange files and folders with your local computer by downloading or uploading them. You can also click **Open Editor** button to open a text editor.
     
-   <img src="images/a6.jpg" alt="a6" width="750">
+   <img src="images/1-5.PNG" alt="a6" width="750">
 * Editor: It’s a text editor that allows you to edit plain text file as shown in the following figure. You can switch back to the console by clicking **Open Terminal** button.
   
-   <img src="images/a7.jpg" alt="a7" width="750">
+   <img src="images/1-6.PNG" alt="a7" width="750">
 # Cloud Pub/Sub
 
 In this section, you will learn to create topics in Pub/Sun. Also, you will write and run Python Script to publish into and consume messages from the topic.
