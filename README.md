@@ -34,10 +34,10 @@ You will start by creating a GCP account. Then, you will learn how to configure 
 1. Creating a new Gmail account is recommended, but you can use an existing one if it still allows you a free trial.
 2. Go to the [GCP official site](https://cloud.google.com/gcp). Be sure that you are using the correct account. Then, click on **Get Started for Free** button
    
-   <img src="images/1-1.png" alt="Get Started with GCP for Free" width="540">
+   <img src="images/1-1.PNG" alt="Get Started with GCP for Free" width="540">
 4. Fill the account information and accept the terms of services.
    
-   <img src="images/1-2.png" alt="Fill the account information" width="300">
+   <img src="images/1-2.PNG" alt="Fill the account information" width="300">
 5. In the next step, you will fill in your personal information and a credit card information. That information is to ensure that you are a real person. This will create a free account for 90 days and give you 300+ $ free credits. **No charges are made unless you upgrade to a paid Cloud Billing account**. Please read [the GCP billing verification](https://cloud.google.com/free/docs/free-cloud-features#billing_verification) for more information.
    
    <img src="images/a3.jpg" alt="fill in your personal information" width="550">
