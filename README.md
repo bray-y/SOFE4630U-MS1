@@ -201,7 +201,6 @@ A report that includes the following:
 3. A Link to an audible video of about 3 minutes showing the smart meter application. 
 4. A Link to another audible video of about 5 minutes showing the design part. 
 
-Put the GitHub link and video links inside your report, and submit the report.
 
 ## Acknowledgements
 This repository is a fork of [zubxxr/SOFE4630U-MS1](https://github.com/zubxxr/SOFE4630U-MS1), originally based on [GeorgeDaoud3/SOFE4630U-MS1](https://github.com/GeorgeDaoud3/SOFE4630U-MS1). Credit to the original author(s) for the initial implementation. 
