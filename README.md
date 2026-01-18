@@ -160,6 +160,8 @@ The subsection will create a consumer that will create a subscriber to consume m
    
 ## 5. Simulating a Real Meter. 
 
+![Smart meter](./images/smartMeter.jpg)
+
 
 1.	Copy the files from the **v2** folder from the GitHub repository.
 2.	Create a new topic and name it **smartMeter**
